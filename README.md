@@ -28,5 +28,7 @@ This class contains the main method that runs the program. It creates an array o
 Methods in Main
 
 display(Student[] students): Displays a list of all student records.
+
 update(Student[] students, int updPrn): Updates the student record with the given PRN.
+
 delete(Student[] students, int delPrn): Deletes the student record with the given PRN.
